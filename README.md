@@ -5,10 +5,10 @@ jjwxc_book_rank
 主成分分析 pca
 --------------
 
-原始数据：![book_info.csv](https://www.dropbox.com/s/um7rit5h7b925i3/book_info.csv)
-代码：![book_rank_pca.r](https://www.dropbox.com/s/9cm0b7zoc6gu87w/book_rank_pca.r)
-小说PCA评分排名：![book_rank_pca.csv](https://www.dropbox.com/s/je7dchzaqup0gvv/book_rank_pca.csv)
-带小说名的PCA评分排名：![book_rank_pca_v.csv](https://www.dropbox.com/s/jpe1y7853hy7k7g/book_rank_pca_v.csv)
+- 原始数据：![book_info.csv](https://www.dropbox.com/s/um7rit5h7b925i3/book_info.csv)
+- 代码：![book_rank_pca.r](https://www.dropbox.com/s/9cm0b7zoc6gu87w/book_rank_pca.r)
+- 小说PCA评分排名：![book_rank_pca.csv](https://www.dropbox.com/s/je7dchzaqup0gvv/book_rank_pca.csv)
+- 带小说名的PCA评分排名：![book_rank_pca_v.csv](https://www.dropbox.com/s/jpe1y7853hy7k7g/book_rank_pca_v.csv)
 
 计算过程：
 
